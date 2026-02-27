@@ -6,7 +6,7 @@ Daily reading notes from 91 tech blogs, automatically generated.
 
 ## All Daily Notes
 
-- **[February 27, 2026 (Friday)](_posts/2026-02-27.md)**
+- **[February 27, 2026 (Friday)](_posts/2026-02-27.html)**
 
 ---
 

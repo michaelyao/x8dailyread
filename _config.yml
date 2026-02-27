@@ -7,6 +7,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Permalink structure - keep simple filename-based URLs
+permalink: /_posts/:name.html
+
 # Exclude files from processing
 exclude:
   - Gemfile
