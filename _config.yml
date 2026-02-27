@@ -1,21 +1,3 @@
 theme: minima
 title: x8dailyread
 description: Daily tech blog reading notes from 91 HN community blogs
-
-# Jekyll settings for GitHub Pages
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Permalink structure - keep simple filename-based URLs
-permalink: /_posts/:name.html
-
-# Exclude files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
