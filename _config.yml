@@ -1,3 +1,10 @@
 theme: minima
 title: x8dailyread
-description: Daily tech blog reading notes from 91 HN community blogs
+description: Daily tech blog reading notes
+
+# Keep URLs clean - serve md files as-is
+permalink: pretty
+
+# Include posts directory
+include:
+  - posts
