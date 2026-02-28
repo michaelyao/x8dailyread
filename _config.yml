@@ -1,10 +1,25 @@
 theme: minima
 title: x8dailyread
-description: Daily tech blog reading notes
+description: Daily tech blog reading notes from 91 HN community blogs
 
-# Keep URLs clean - serve md files as-is
-permalink: pretty
+# Jekyll settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
-# Include posts directory
-include:
-  - posts
+# Process markdown files
+defaults:
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - fix_posts.sh

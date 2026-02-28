@@ -6,10 +6,10 @@ Daily reading notes from 91 tech blogs, automatically generated.
 
 ## All Daily Notes
 
-- **[February 27, 2026 (Friday)](posts/2026-02-27.md)**
-- **[February 24, 2026 (Tuesday)](posts/2026-02-24.md)**
-- **[February 21, 2026 (Saturday)](posts/2026-02-21.md)**
-- **[February 20, 2026 (Friday)](posts/2026-02-20.md)**
+- **[February 27, 2026 (Friday)](posts/2026-02-27.html)**
+- **[February 24, 2026 (Tuesday)](posts/2026-02-24.html)**
+- **[February 21, 2026 (Saturday)](posts/2026-02-21.html)**
+- **[February 20, 2026 (Friday)](posts/2026-02-20.html)**
 
 ---
 
