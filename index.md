@@ -26,6 +26,7 @@ Daily reading notes from 91 tech blogs, automatically generated.
 - **[March 17, 2026 (Tuesday)](posts/2026-03-17.html)**
 - **[March 18, 2026 (Wednesday)](posts/2026-03-18.html)**
 - **[March 19, 2026 (Thursday)](posts/2026-03-19.html)**
+- **[March 20, 2026 (Friday)](posts/2026-03-20.html)**
 
 ---
 
@@ -34,6 +35,6 @@ Daily reading notes from 91 tech blogs, automatically generated.
 This site aggregates posts from popular tech blogs (Hacker News community favorites)
 and generates daily summaries. New notes are added automatically every morning at 7:30 AM PST.
 
-**Total posts:** 20 days of reading notes
+**Total posts:** 21 days of reading notes
 
-*Last updated: 2026-03-19 07:30*
+*Last updated: 2026-03-20 07:30*
